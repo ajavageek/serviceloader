@@ -1,0 +1,1 @@
+ch.frankel.blog.serviceloader.Foo=ch.frankel.blog.serviceloader.FooImpl1,ch.frankel.blog.serviceloader.FooImpl2
